@@ -1,0 +1,40 @@
+html{
+    font-family: monospace;
+}
+
+body{
+    background: black;
+    color: pink;
+    width: 50%;
+    max-width: 800px;
+    min-width: 480;
+    margin: 0 auto;
+}
+
+input{
+    margin: 1rem;
+    padding: 10px;
+    border: 1px solid darkred;
+    border-radius: 5px;
+    color: pink;
+    background: black;
+
+}
+
+.guessSubmit:hover{
+    cursor: pointer;
+    box-shadow: 3px 3px hotpink;
+}
+
+.form{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.lastResult{
+    color: white;
+    padding: 3px;;
+}
