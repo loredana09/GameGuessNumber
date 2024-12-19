@@ -1,2 +1,2 @@
 # GameGuessNumber
-game created on the Erasmus+ 2024 course C
+game created on the Erasmus+ 2024 course CNCH
